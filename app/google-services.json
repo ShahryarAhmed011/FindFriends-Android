@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568559300376",
+    "firebase_url": "https://findfriendsapp-16c2d.firebaseio.com",
+    "project_id": "findfriendsapp-16c2d",
+    "storage_bucket": "findfriendsapp-16c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568559300376:android:2b51d060e4278f3929b86d",
+        "android_client_info": {
+          "package_name": "com.neurotech.findfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568559300376-mf3n9al84670lvf82v25fv6qvt8sgvee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.findfriends",
+            "certificate_hash": "3df62cf60e4b1817c9f6c2a2766e08be7e90bf52"
+          }
+        },
+        {
+          "client_id": "568559300376-hgjo7k067fipbtr8ce7acf2f1hbuug92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu9ZApCIyOfpgXGN7dYl4b6ENYKWZTrDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568559300376-hgjo7k067fipbtr8ce7acf2f1hbuug92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
